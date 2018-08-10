@@ -1,4 +1,10 @@
-# My Awesome Bookdfsfdsfsdfs
+# python
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+authour：  zhougen
+
+date :  2018-08-10
+
+
+
+this is python doc
 
